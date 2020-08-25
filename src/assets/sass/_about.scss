@@ -1,0 +1,12 @@
+.about-section {
+  height: 80vh;
+  padding-top: 10rem;
+  // background: linear-gradient(to bottom, $black 0%,#{fade-out($black, .1)} 75%,#{fade-out($black, .2)} 100%);
+  background-image: url(../images/one.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  p {
+    margin-bottom: 5rem;
+  }
+}
