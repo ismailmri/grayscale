@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-grayscale/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Best Psychiatrist in Amman',
+  heading: 'Best Psychiatrist in California',
   subHeading: 'Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. ',
 
   // social
